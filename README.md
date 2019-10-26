@@ -1,13 +1,13 @@
 # liri-node-app
-Search for songs
+Search for songs:
 
 ![Image of liri-app](images/spotifythis.gif)
 
-Search for concerts
+Search for concerts:
 
 ![Image of liri-app](images/concertthis.gif)
 
-Search for movies
+Search for movies:
 
 ![Image of liri-app](images/moviethis.gif)
 
